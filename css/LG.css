@@ -1,0 +1,28 @@
+.Maincircle{
+	width:410px;
+	height:410px;
+	background-color: #a50034 ;
+	border:2px solid white;
+	border-radius:200px;
+}
+.secsircle{
+	position:relative;
+	z-index: 2;
+	left:20px;
+	top:20px;
+	width:350px;
+	height:350px;
+	background-color: #a50034 ;
+	border:10px solid white;
+	border-radius:200px;
+}
+.secsircledit{
+	position:relative;
+	z-index: 1;
+	left:175px;
+	bottom:20px;
+	width:175px;
+	height:175px;
+	background-color: #a50034 ;
+	border:10px solid #a50034;
+}
