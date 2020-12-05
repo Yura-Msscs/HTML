@@ -1,0 +1,49 @@
+.Main{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	margin-top:45px;
+	justify-content: space-around;
+}
+.card{
+	display:flex;
+	flex-direction:row;
+	height:140px;
+	width:270px;
+	border:2px solid white;
+	border-radius:5px;
+}
+.text{
+	justify-content: flex-end;
+}
+.T1{
+	font:Verdana;
+	font-size: 12px;
+	color:white;
+}
+.T2{
+	font:Verdana;
+	font-size: 9px;
+	color:white;
+}
+.CapAmerica{
+	background: #4568DC;
+	background:linear-gradient(180deg, #4568DC 0%, #B06AB3 100%);
+}
+.IronMan{
+	background: #e52d27;
+	background:linear-gradient(180deg, #e52d27 0%, #b31217 100%);
+}
+img{
+	position:relative;
+	bottom:42px;
+	height:182px;
+}
+.Spidey{
+	background: #e52d27;
+	background:linear-gradient(0deg, #000 0%, #e52d27 100%);
+}
+.BlackWid{
+	background: #000;
+	background:linear-gradient(90deg, #000 0%, #61045F 100%);
+}
