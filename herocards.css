@@ -29,10 +29,12 @@
 .CapAmerica{
 	background: #4568DC;
 	background:linear-gradient(180deg, #4568DC 0%, #B06AB3 100%);
+	margin:40px;
 }
 .IronMan{
 	background: #e52d27;
 	background:linear-gradient(180deg, #e52d27 0%, #b31217 100%);
+	margin:40px;
 }
 img{
 	position:relative;
@@ -42,8 +44,10 @@ img{
 .Spidey{
 	background: #e52d27;
 	background:linear-gradient(0deg, #000 0%, #e52d27 100%);
+	margin:40px;
 }
 .BlackWid{
 	background: #000;
 	background:linear-gradient(90deg, #000 0%, #61045F 100%);
+	margin:40px;
 }
