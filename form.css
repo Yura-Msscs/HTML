@@ -1,0 +1,20 @@
+.but{
+	position:absolute;
+	top:70px;
+	left:530px;
+}
+.text1::placeholder{
+	color:gray;
+}
+.text1{
+	color:green;
+}
+.text1:hover{
+	color:red;
+}
+.text2{
+	color:green;
+}
+.text2:hover{
+	color:red;
+}
